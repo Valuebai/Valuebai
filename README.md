@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align= "left"><b>🌈My Github Stats</b></h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Valuebai&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Valuebai&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valuebai)](https://github.com/anuraghazra/github-readme-stats)
