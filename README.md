@@ -25,68 +25,77 @@
 
 #  🙋 Hello
 
-- 👋 Hi, I’m @Valuebai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Valuebai, **A Full-Stack Developer**
+- 👀 I’m interested in Web3
+- 💞️ I’m looking to collaborate on Web3
+- 📫 How to reach me: goodman@game.com
 
 
-💪 Things I code with: 
+💪 Code with: 
 <!-- 图标和颜色参考这个网站https://simpleicons.org/ 只要改下面的文字，logo，颜色即可-->
 &emsp;&emsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2088FF?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-blue?style=style=flat-square&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 &emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=JAVA)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FDCC34?style=flat-square&logo=Python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell-2088FF?style=flat-square&logo=PowerShell&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Django](https://img.shields.io/badge/-Django-062E1F?style=flat-square&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=000000)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=000000)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939)
+
 
 &emsp;&emsp; 
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=Sourcetree)
-
-&emsp;&emsp; 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=0079f2)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+&emsp;&emsp; 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=FCC624)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=FC6D26)
+![GitBook](https://img.shields.io/badge/-GitBook-black?style=flat-square&logo=GitBook&logoColor=3884FF)
+![Github actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github-actions&logoColor=2088FF)
+
 
 🧰 常用的工具:
 
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/-macOS-black?style=style=flat-square&logo=Apple)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=Apple)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-black?style=flat-square&logo=Alibaba%20CloudlogoColor=FF6A00)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+
+&emsp;&emsp; 
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=Sourcetree)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Sublime Text](https://img.shields.io/badge/-Sublime&nbsp;Text-black?style=flat-square&logo=Sublime+Text&logoColor=FF9800)
+
+&emsp;&emsp; 
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![stackoverflow](https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Sublime Text](https://img.shields.io/badge/-Sublime Text-FF9800?style=flat-square&logo=Sublime Text)
 
 
-
-🧠 计划学习:
+🌱 Plan&Learning:
 
 &emsp;&emsp;
 ![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=Blockchain.com&logoColor=121D33)
@@ -103,32 +112,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=Valuebai&theme=radical)
 
 
- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Valuebai.Valuebai)
-
-```python
-class Valuebai:
-
-    def __init__(self):
-        self.username = 'Valuebai'
-        self.name = 'Valuebai'
-        self.web = '[https://rafnixg.dev](https://github.com/Valuebai)'
-        self.twitter = '@rafnixg'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
-        }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
-
-    def __str__(self):
-        return self.name
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Valuebai.Valuebai)
 
 
-if __name__ == '__main__':
-    me = RafnixG()
-
-
-```
