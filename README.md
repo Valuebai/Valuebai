@@ -23,7 +23,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Valuebai.Valuebai" alt="访客统计" />
 </div> -->
 
-#  🙋 Hello
+#  🙋 Hello ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Valuebai.Valuebai)
 
 - 👋 Hi, I’m Valuebai, **A Full-Stack Developer**
 - 👀 I’m interested in Web3
@@ -117,6 +117,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=Valuebai&theme=radical)
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Valuebai.Valuebai)
 
 
