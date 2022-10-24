@@ -34,6 +34,7 @@
 💪 Code with
 <!-- 图标和颜色参考这个网站https://simpleicons.org/ 只要改下面的文字，logo，颜色即可-->
 &emsp;&emsp;
+【Frontend】
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2088FF?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
@@ -44,6 +45,7 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 &emsp;&emsp;
+【Backend】
 ![Python](https://img.shields.io/badge/-Python-FDCC34?style=flat-square&logo=Python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell-2088FF?style=flat-square&logo=PowerShell&logoColor=white)
@@ -51,21 +53,22 @@
 ![Django](https://img.shields.io/badge/-Django-062E1F?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=000000)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=000000)
-![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-white?style=flat-square&logo=RabbitMQ&logoColor=FF6600)
 
 
 &emsp;&emsp; 
+【Database】
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=0079f2)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 &emsp;&emsp; 
+【Devops】
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=FC6D26)
-![GitBook](https://img.shields.io/badge/-GitBook-black?style=flat-square&logo=GitBook&logoColor=3884FF)
 ![Github actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github-actions&logoColor=2088FF)
 
 
@@ -88,8 +91,9 @@
 ![DataGrip](https://img.shields.io/badge/-DataGrip-%23007ACC?style=flat-square&logo=DataGrip&logoColor=000000)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23007ACC?style=flat-square&logo=jetbrains)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=Sourcetree)
+![GitBook](https://img.shields.io/badge/-GitBook-black?style=flat-square&logo=GitBook&logoColor=3884FF)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Sublime Text](https://img.shields.io/badge/-Sublime&nbsp;Text-black?style=flat-square&logo=Sublime+Text&logoColor=FF9800)
+![Sublime](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=Sublime+Text&logoColor=FF9800)
 
 &emsp;&emsp; 
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
