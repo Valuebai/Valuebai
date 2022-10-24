@@ -34,7 +34,7 @@
 💪 Code with
 <!-- 图标和颜色参考这个网站https://simpleicons.org/ 只要改下面的文字，logo，颜色即可-->
 &emsp;&emsp;
-【Frontend】
+<!-- 【Frontend】 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2088FF?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
@@ -45,7 +45,7 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 &emsp;&emsp;
-【Backend】
+<!-- 【Backend】 -->
 ![Python](https://img.shields.io/badge/-Python-FDCC34?style=flat-square&logo=Python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell-2088FF?style=flat-square&logo=PowerShell&logoColor=white)
@@ -57,14 +57,14 @@
 
 
 &emsp;&emsp; 
-【Database】
+<!-- 【Database】 -->
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=0079f2)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 &emsp;&emsp; 
-【Devops】
+<!-- 【Devops】 -->
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
