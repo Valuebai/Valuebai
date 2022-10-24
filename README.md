@@ -25,7 +25,7 @@
 
 #  🙋 Hello ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Valuebai.Valuebai)
 
-- 👋 Hi, I’m Valuebai, **A Full-Stack Developer**
+- 👋 Hi, I’m Valuebai, **A Full-Stack Developer, Devops, 工程效能**
 - 👀 I’m interested in Web3
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me: goodman@game.com
@@ -64,25 +64,24 @@
 
 <!-- 【Devops】 -->
 &emsp;&emsp; 
+![Devops](https://img.shields.io/badge/-Devops/工程效能-0078D7?style=flat-square&logo=Devpost)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=FC6D26)
 ![Github actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github-actions&logoColor=2088FF)
 
-
-🧰 Use Tools
-
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=Apple)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-black?style=flat-square&logo=Alibaba%20CloudlogoColor=FF6A00)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-black?style=flat-square&logo=alibaba-cloud&logoColor=FF6A00)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX)
 
+🧰 Use Tools
 
 &emsp;&emsp; 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
@@ -92,6 +91,7 @@
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=Sourcetree)
 ![GitBook](https://img.shields.io/badge/-GitBook-black?style=flat-square&logo=GitBook&logoColor=3884FF)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Apache JMeter](https://img.shields.io/badge/JMeter-black?style=flat-square&logo=Apache%20JMeter&logoColor=D22128)
 ![Sublime](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=Sublime+Text&logoColor=FF9800)
 
 &emsp;&emsp; 
@@ -101,6 +101,10 @@
 ![Evernote](https://img.shields.io/badge/-Evernote-black?style=flat-square&logo=Evernote&logoColor=00A82D)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![stackoverflow](https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=FileZilla)
+![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=EA4335)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram)
+![WeChat](https://img.shields.io/badge/WeChat-white?logo=WeChat&logoColor=07C160)
 
 
 🌱 Plan&Learning:
