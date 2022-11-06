@@ -25,7 +25,7 @@
 
 #  🙋 Hello ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Valuebai.Valuebai)
 
-- 👋 Hi, I’m Valuebai, **A Full-Stack Developer, Devops, 工程效能**
+- 👋 Hi, I’m Valuebai, **A Full-Stack Developer, Devops**
 - 👀 I’m interested in Web3
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me: goodman@game.com
